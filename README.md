@@ -1,1 +1,1 @@
-# DevOps-WS-1.1
+# DevOps-WS
